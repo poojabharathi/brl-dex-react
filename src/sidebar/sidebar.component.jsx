@@ -9,6 +9,7 @@ const Sidebar = () => {
             <SidebarItem to="userassets" text="User Assets" />
             <SidebarItem to="request" text="Request Asset Form" />
             <SidebarItem to="dataRequests" text="Request Assets" />
+            <SidebarItem to="userassets" text="User Assets" />
             <SidebarItem to="createCompute" text="New Compute Job" />
             <SidebarItem to="computeStatus" text="Compute Status" />
             <SidebarItem to="fml" text="Federated Learning" />
